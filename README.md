@@ -1,4 +1,3 @@
-# firehawk
 ### Firehawk
 #### _Mapping by code conventions made easy_
 
